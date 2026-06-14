@@ -12,7 +12,7 @@ Building production-grade AI systems, distributed platforms, cloud infrastructur
 <a href="https://linkedin.com/in/chiragsindhu">LinkedIn</a> •
 <a href="https://github.com/ChiragSindhu">GitHub</a> •
 <a href="https://leetcode.com/u/chiragsindhu21">LeetCode</a> •
-<a href="https://chiragsindhu.com">Website</a>
+<a href="https://yupitschirag.web.app">Website</a>
 </p>
 
 ---
