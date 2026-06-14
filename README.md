@@ -31,7 +31,7 @@ Currently focused on designing scalable AI applications, real-time communication
 
 🏅 Databricks Certified Generative AI Engineer Associate
 
-🚀 Built production systems maintaining 99.97% uptime
+🚀 Built production systems & maintaining - site reliability
 
 🌍 Represented organization at GITEX Global, Dubai
 
@@ -79,7 +79,7 @@ PostgreSQL • MongoDB • Redis • Elasticsearch • Qdrant • Pinecone
 Cloud-native development environment with isolated execution, container orchestration, and real-time collaboration.
 
 ### Mytheos
-Multi-agent AI platform built during Microsoft Build AI Hackathon.
+Multi-agent AI platform built during Microsoft Build AI 2026 Hackathon.
 
 ### Video Conversational AI Platform
 Real-time conversational avatars powered by Gemini, WebRTC, MuseTalk, and Kubernetes.
