@@ -19,7 +19,7 @@ Building production-grade AI systems, distributed platforms, cloud infrastructur
 
 ## About
 
-Software Engineer with 3+ years of professional experience across Generative AI, Agentic AI, Cloud Infrastructure, Distributed Systems, and Data Engineering.
+Software Engineer with professional experience across Generative AI, Agentic AI, Cloud Infrastructure, Distributed Systems, and Data Engineering.
 
 Currently focused on designing scalable AI applications, real-time communication platforms, retrieval systems, and cloud-native architectures deployed across AWS, Azure, and GCP.
 
