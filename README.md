@@ -100,6 +100,17 @@ Engineering intelligence platform leveraging RAG for BIM and CAD workflows.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragSindhu" />
 </p>
 
+## LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chiragsindhu21?theme=dark&font=Nunito" />
+</p>
 ---
+
+📈 GitHub Stats
+🔥 GitHub Streak
+💻 LeetCode Card
+🏆 GitHub Trophies
+📊 Contribution Graph
 
 "Engineering AI systems that deliver measurable business outcomes at scale."
